@@ -2,15 +2,15 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 
-🙋 I’m currently working on Full stack projects
+-🙋 I’m currently working on Full stack projects
 
-💁 I’m currently learning Full stack development
+-💁 I’m currently learning Full stack development
 
-👯 I’m looking to collaborate projects on Open source 
+-👯 I’m looking to collaborate projects on Open source 
 
-🤝 I’m looking for help with Competitive Programming 
+-🤝 I’m looking for help with Competitive Programming 
 
-💬 Ask me about Web development and Dsa
+-💬 Ask me about Web development and Dsa
 
 - 📫 How to reach me **akashshelke594@gmail.com**
 
