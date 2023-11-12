@@ -1,21 +1,25 @@
 <h1 align="center">Hi 👋, I'm Akash Shelke</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashshelke07&label=Profile%20views&color=0e75b6&style=flat" alt="akashshelke07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashshelke07" alt="akashshelke07" /></a> </p>
+🙋 I’m currently working on Full stack projects
 
-<p align="left"> <a href="https://twitter.com/@akashshelke07" target="blank"><img src="https://img.shields.io/twitter/follow/@akashshelke07?logo=twitter&style=for-the-badge" alt="@akashshelke07" /></a> </p>
-🔭 I’m currently working on MERN stack projects
-
-🌱 I’m currently learning Full stack development
+💁 I’m currently learning Full stack development
 
 👯 I’m looking to collaborate projects on Open source 
 
 🤝 I’m looking for help with Competitive Programming 
 
 💬 Ask me about Web development and Dsa
+
 - 📫 How to reach me **akashshelke594@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashshelke07&label=Profile%20views&color=0e75b6&style=flat" alt="akashshelke07" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashshelke07" alt="akashshelke07" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@akashshelke07" target="blank"><img src="https://img.shields.io/twitter/follow/@akashshelke07?logo=twitter&style=fo alt="@akashshelke07" /></a> </p>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
