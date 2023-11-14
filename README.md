@@ -6,8 +6,6 @@
 
 -💁 I’m currently learning Full stack development
 
--👯 I’m looking to collaborate projects on Open source 
-
 -🤝 I’m looking for help with Competitive Programming 
 
 -💬 Ask me about Web development and Dsa
