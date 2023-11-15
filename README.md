@@ -2,15 +2,15 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashshelke07&label=Profile%20views&color=0e75b6&style=flat" alt="akashshelke07" /> </p>
-- 🔭 I’m currently working on **Frontend web development**
+- 🔭 I’m currently working on **Frontend development**
 
 - 🌱 I’m currently learning **Web development**
 
--👯 I’m looking to collaborate on **Web development Projects **
+- 👯 I’m looking to collaborate on **Web development Projects**
 
--🤝 I’m looking for help with **Programming**
+- 🤝 I’m looking for help with **Programming**
 
--💬 Ask me about **Web development and Dsa**
+- 💬 Ask me about **Web development and Dsa**
 
 *📫 How to reach me **akashshelke594@gmail.com**
 
