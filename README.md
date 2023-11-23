@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web development and Dsa**
 
-*📫 How to reach me **akashshelke594@gmail.com**
+- 📫 How to reach me **akashshelke594@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
