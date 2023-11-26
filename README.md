@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Programming**
 
-- 💬 Ask me about **Web development and Dsa**
+- 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **akashshelke594@gmail.com**
 
