@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on ** Web3 development**
 
-- 🌱 I’m currently learning **Web3  and AI Development**
+- 🌱 I’m currently learning ** Web3 and AI Development **
 
-- 👯 I’m looking to collaborate on **Web development Projects**
+- 👯 I’m looking to collaborate on ** Web3 and AI development Projects **
 
 - 🤝 I’m looking for help with ** Dynamic Programming**
 
-- 💬 Ask me about **Frontend development and DSA **
+- 💬 Ask me about ** Frontend development and DSA **
 
 - 📫 How to reach me **akashshelke594@gmail.com**
 
