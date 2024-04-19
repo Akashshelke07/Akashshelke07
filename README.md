@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web3 and AI development Projects**
 
-- 🤝 I’m looking for help with ** Programming**
+- 🤝 I’m looking for help with **Programming**
 
 - 💬 Ask me about **Frontend development and DSA**
 
