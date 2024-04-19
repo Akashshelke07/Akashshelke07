@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashshelke07&label=Profile%20views&color=0e75b6&style=flat" alt="akashshelke07" /> </p>
 
-- 🔭 I’m currently working on **Web3 development**
-
 - 🌱 I’m currently learning **Web3 and AI Development**
 
 - 👯 I’m looking to collaborate on **Web3 and AI development Projects**
 
-- 🤝 I’m looking for help with **Dynamic Programming**
+- 🤝 I’m looking for help with ** Programming**
 
 - 💬 Ask me about **Frontend development and DSA**
 
