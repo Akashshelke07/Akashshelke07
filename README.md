@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashshelke07&label=Profile%20views&color=0e75b6&style=flat" alt="akashshelke07" /> </p>
 
-- 🌱 I’m currently learning ** Python and it's frameworks **
+- 🌱 I’m currently learning **Python and it's frameworks**
 
-- 👯 I’m looking to collaborate on ** Web development Projects **
+- 👯 I’m looking to collaborate on **Web development Projects**
 
 - 🤝 I’m looking for help with **Programming**
 
-- 💬 Ask me about **Frontend development, Python and DSA **
+- 💬 Ask me about **Frontend development, Python and DSA**
 
 - 📫 How to reach me **akashshelke594@gmail.com**
 
