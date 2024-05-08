@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Akash Shelke</h1>
-<h3 align="center">A passionate Web3 and AI developer from India</h3>
+<h3 align="center">A passionate Front-end developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashshelke07&label=Profile%20views&color=0e75b6&style=flat" alt="akashshelke07" /> </p>
 
-- 🌱 I’m currently learning **Web3 and AI Development**
+- 🌱 I’m currently learning ** Python and it's frameworks **
 
-- 👯 I’m looking to collaborate on **Web3 and AI development Projects**
+- 👯 I’m looking to collaborate on ** Web development Projects **
 
 - 🤝 I’m looking for help with **Programming**
 
-- 💬 Ask me about **Frontend development and DSA**
+- 💬 Ask me about **Frontend development, Python and DSA **
 
 - 📫 How to reach me **akashshelke594@gmail.com**
 
