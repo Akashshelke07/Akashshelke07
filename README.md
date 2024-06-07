@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Front-end developer from India</h3>
 
 <p align="center">
-  <a href="https://tenor.com/view/hello-wave-hi-gif-9440019">
-    <img src="https://media.tenor.com/images/1d7e0a7c3f556c85a1abff927e4b6ed8/tenor.gif" width="480" height="271" alt="GIF via Tenor">
+  <a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" height="271" alt="GIF via GIPHY">
   </a>
 </p>
 
