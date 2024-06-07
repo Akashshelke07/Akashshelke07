@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash Shelke</h1>
 <h3 align="center">A passionate Front-end developer from India</h3>
 
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="271" style="border:0;" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+<p align="center">
+  <a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" height="271" alt="GIF via GIPHY">
+  </a>
+</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=akashshelke07&label=Profile%20views&color=0e75b6&style=flat" alt="akashshelke07" /> 
