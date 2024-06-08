@@ -10,11 +10,11 @@
   <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=akashshelke07&label=Profile%20views&color=0e75b6&style=flat" alt="akashshelke07" />  
   
-- 🌱 I’m currently learning **Mechine Learning**
-- 👯 I’m looking to collaborate on **Web development projects**
-- 🤝 I’m looking for help with **Programming and Mathematics**
-- 💬 Ask me about **Frontend development, Java, Gen AI and DSA**
-- 📫 How to reach me **akashshelke594@gmail.com**
+🌱 I’m currently learning **Mechine Learning**
+ 👯 I’m looking to collaborate on **Web development projects**
+ 🤝 I’m looking for help with **Programming and Mathematics**
+ 💬 Ask me about **Frontend development, Java, Gen AI and DSA**
+ 📫 How to reach me **akashshelke594@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
