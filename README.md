@@ -10,7 +10,7 @@
   <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=akashshelke07&label=Profile%20views&color=0e75b6&style=flat" alt="akashshelke07" />  
   
-- 🌱 I’m currently learning **Mechine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **Web development projects**
 - 🤝 I can provide assistance with **programming and mathematics**
 - 💬 Ask me about **Frontend development, Java, Gen AI and DSA**
