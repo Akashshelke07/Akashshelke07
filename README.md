@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Shelke</h1>
-<h3 align="center">A passionate Front-end developer from India</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="center">
   <a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
@@ -11,10 +11,10 @@
   <img src="https://komarev.com/ghpvc/?username=akashshelke07&label=Profile%20views&color=0e75b6&style=flat" alt="akashshelke07" /> 
 </p>
 
-- 🌱 I’m currently learning **Python and its frameworks**
+- 🌱 I’m currently learning **Mechine Learning**
 - 👯 I’m looking to collaborate on **Web development projects**
-- 🤝 I’m looking for help with **Programming**
-- 💬 Ask me about **Frontend development, Python, and DSA**
+- 🤝 I’m looking for help with **Programming and Mathematics**
+- 💬 Ask me about **Frontend development, Java, Gen AI and DSA**
 - 📫 How to reach me **akashshelke594@gmail.com**
 
 
