@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/akashshelke07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/akashshelke07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/akash-shelke-5b1520259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/akash-shelke-5b1520259/" height="30" width="40" /></a>
+<a href="https://x.com/akashshelke07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/akashshelke07" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/akash-shelke-5b1520259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/akash-shelke-5b1520259/" height="30" width="40" /></a>
 <a href="https://instagram.com/skyler_rtg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skyler_rtg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/akashshelke594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/akashshelke594" height="30" width="40" /></a>
 <a href="https://leetcode.com/skyler_0777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/skyler_0777/" height="30" width="40" /></a>
