@@ -2,15 +2,15 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/akashshelke07">
-    <img src="https://komarev.com/ghpvc/?username=akashshelke07&label=Profile%20views&color=0e75b6&style=flat" alt="akashshelke07" /> 
+  <a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
+    <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="271" alt="GIF via GIPHY">
   </a>
 </p>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=akashshelke07&label=Profile%20views&color=0e75b6&style=flat" alt="akashshelke07" />  
+
+  
 - 🌱 I’m currently learning **Mechine Learning**
 - 👯 I’m looking to collaborate on **Web development projects**
 - 🤝 I’m looking for help with **Programming and Mathematics**
