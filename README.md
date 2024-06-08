@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash Shelke</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
- <p align="center">
-    <a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" height="271" alt="GIF via GIPHY">
+  <p align="center">
+    <a href="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+      <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="271" alt="GIF via GIPHY">
     </a>
   </p>
 
