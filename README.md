@@ -14,6 +14,9 @@
 - 👯 I’m looking to collaborate on **Web development projects**
 - 🤝 I can provide assistance with **programming and mathematics**
 - 💬 Ask me about **Frontend development, Java, Gen AI and DSA**
+- 😁 Fun fact **I love anime**
+
+
 - 📫 How to reach me **akashshelke594@gmail.com**
 
 
