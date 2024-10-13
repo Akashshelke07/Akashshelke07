@@ -13,8 +13,7 @@
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **Web development projects**
 - 🤝 I can provide assistance with **programming and mathematics**
-- 💬 Ask me about **Frontend development, Java, Gen AI and DSA**
-- 😁 Fun fact **I love anime**
+- 💬 Ask me about **Frontend development, Java and DSA**
 
 
 - 📫 How to reach me **akashshelke594@gmail.com**
