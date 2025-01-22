@@ -12,7 +12,7 @@
    
 - 👯 I’m looking to collaborate on **Web development projects**
 - 🤝 I can provide assistance with **programming and mathematics**
-- 💬 Ask me about **Frontend development, Java and DSA**
+- 💬 Ask me about **Web development and DSA**
 
 
 - 📫 How to reach me **akashshelke594@gmail.com**
