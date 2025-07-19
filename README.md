@@ -16,9 +16,11 @@
 ### 🚀 About Me
 
 - 👨‍💻 I'm currently working on **YouTubeSentimentAI**, a transformer-based sentiment analysis tool using YouTube Data API & Hugging Face
-- 🌱 I’m learning advanced **DevOps, CI/CD pipelines**, and scalable cloud deployment with **Docker & Jenkins**
-- 👯 I’m open to collaborate on **MERN stack projects, automation tools, and developer tooling**
-- 💬 Ask me about **Web Development, DSA, and Open Source**
+- 🌱 I’m diving deep into **DevOps**, building and deploying scalable applications with:
+  - **Docker**, **Jenkins**, **GitHub Actions**, and **CI/CD pipelines**
+  - **AWS EC2**, **Vercel**, and **Cloud Infrastructure Automation**
+- 👯 I’m open to collaborate on **MERN stack projects**, **cloud-native apps**, and **DevOps automation**
+- 💬 Ask me about **Web Development, DevOps, DSA, and Open Source**
 - 📫 Reach me at: **akashshelke594@gmail.com**
 - 🏆 **Selected as a Mentor for GirlScript Summer of Code (GSSoC) 2025**, guiding contributors in open source!
 
@@ -41,20 +43,33 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+  <!-- Programming Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
+
+  <!-- Frontend & Styling -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
+
+  <!-- Backend & APIs -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+
+  <!-- DevOps & Cloud -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+
+  <!-- AI/NLP -->
   <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" width="40" />
 </p>
 
