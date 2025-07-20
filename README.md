@@ -15,12 +15,12 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 I'm currently working on **YouTubeSentimentAI**, a transformer-based sentiment analysis tool using YouTube Data API & Hugging Face
+- 👨‍💻 I'm currently working on **DevOps and networking**, through hands-on projects and research
 - 🌱 I’m diving deep into **DevOps**, building and deploying scalable applications with:
   - **Docker**, **Jenkins**, **GitHub Actions**, and **CI/CD pipelines**
   - **AWS EC2**, **Vercel**, and **Cloud Infrastructure Automation**
 - 👯 I’m open to collaborate on **MERN stack projects**, **cloud-native apps**, and **DevOps automation**
-- 💬 Ask me about **Web Development, DevOps, DSA, and Open Source**
+- 💬 Ask me about **Web Development, DevOps, DSA, Mathematics and Open Source**
 - 📫 Reach me at: **akashshelke594@gmail.com**
 - 🏆 **Selected as a Mentor for GirlScript Summer of Code (GSSoC) 2025**, guiding contributors in open source!
 
