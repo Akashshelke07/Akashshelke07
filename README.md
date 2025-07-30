@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 I'm currently working on **DevOps and networking**, through hands-on projects and research
+- 👨‍💻 I'm currently working on **DevOps and networking**, through hands-on projects and research  
 - 🌱 I’m diving deep into **DevOps**, building and deploying scalable applications with:
   - **Docker**, **Jenkins**, **GitHub Actions**, and **CI/CD pipelines**
   - **AWS EC2**, **Vercel**, and **Cloud Infrastructure Automation**
@@ -64,10 +64,17 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" />
 
   <!-- AI/NLP -->
   <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" width="40" />
