@@ -16,9 +16,7 @@
 ### 🚀 About Me
 
 - 👨‍💻 I'm currently working on **DevOps and networking**, through hands-on projects and research  
-- 🌱 I’m diving deep into **DevOps**, building and deploying scalable applications with:
-  - **Docker**, **Jenkins**, **GitHub Actions**, and **CI/CD pipelines**
-  - **AWS EC2**, **Vercel**, and **Cloud Infrastructure Automation**
+- 🌱 Exploring the world of **DevOps** and modern software delivery.
 - 👯 I’m open to collaborate on **MERN stack projects**, **cloud computing**, and **DevOps automation**
 - 💬 Ask me about **Web Development, DevOps, DSA, Mathematics and Open Source**
 - 📫 Reach me at: **akashshelke594@gmail.com**
