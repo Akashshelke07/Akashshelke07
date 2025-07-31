@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Shelke</h1>
-<h3 align="center">A passionate Full Stack Developer & Open Source Mentor from India</h3>
+<h3 align="center"> A passionate Full Stack Developer, DevOps enthusiast, and Open Source contributor & mentor from India</h3>
 
 <p align="center">
   <a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
@@ -20,7 +20,7 @@
 - 👯 I’m open to collaborate on **MERN stack projects**, **cloud computing**, and **DevOps automation**
 - 💬 Ask me about **Web Development, DevOps, DSA, Mathematics and Open Source**
 - 📫 Reach me at: **akashshelke594@gmail.com**
-- 🏆 **Selected as a Mentor for GirlScript Summer of Code (GSSoC) 2025**, guiding contributors in open source!
+- 🏆 **Mentor** at GirlScript Summer of Code (GSSoC) 2025, guiding contributors in their open source journey
 
 ---
 
