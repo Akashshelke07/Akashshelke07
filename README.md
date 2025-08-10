@@ -24,6 +24,7 @@
 * 📫 **Reach me at:**
 
   * Portfolio: [portfolio-akashshelke07s-projects.vercel.app](https://portfolio-akashshelke07s-projects.vercel.app)
+
   * Email: **[akashshelke594@gmail.com](mailto:akashshelke594@gmail.com)**
 * 🏆 **Mentor** at GirlScript Summer of Code (GSSoC) 2025, guiding contributors in their open source journey
 
