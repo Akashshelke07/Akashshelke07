@@ -13,14 +13,19 @@
 
 ---
 
+
+
 ### 🚀 About Me
 
-- 👨‍💻 I'm currently working on **DevOps and networking**, through hands-on projects and research  
-- 🌱 Exploring the world of **DevOps** and modern software delivery.
-- 👯 I’m open to collaborate on **MERN stack projects**, **cloud computing**, and **DevOps automation**
-- 💬 Ask me about **Web Development, DevOps, DSA, Mathematics and Open Source**
-- 📫 Reach me at: **akashshelke594@gmail.com**
-- 🏆 **Mentor** at GirlScript Summer of Code (GSSoC) 2025, guiding contributors in their open source journey
+* 👨‍💻 I'm currently working on **DevOps and networking**, through hands-on projects and research
+* 🌱 Exploring the world of **DevOps** and modern software delivery
+* 👯 I’m open to collaborate on **MERN stack projects**, **cloud computing**, and **DevOps automation**
+* 💬 Ask me about **Web Development, DevOps, DSA, Mathematics, and Open Source**
+* 📫 **Reach me at:**
+
+  * Portfolio: [portfolio-akashshelke07s-projects.vercel.app](https://portfolio-akashshelke07s-projects.vercel.app)
+  * Email: **[akashshelke594@gmail.com](mailto:akashshelke594@gmail.com)**
+* 🏆 **Mentor** at GirlScript Summer of Code (GSSoC) 2025, guiding contributors in their open source journey
 
 ---
 
