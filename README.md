@@ -15,7 +15,7 @@
 
 
 
-### 🚀 About Mee
+### 🚀 About Me
 
 * 👨‍💻 I'm currently working on **DevOps and networking**, through hands-on projects and research
 * 🌱 Exploring the world of **DevOps** and modern software delivery
