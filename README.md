@@ -1,99 +1,141 @@
-<h1 align="center">Hi I'm Akash Shelke</h1>
-<h3 align="center"> A passionate Full Stack Developer, DevOps enthusiast, and Open Source contributor & mentor from India</h3>
+# Akash Shelke
 
-<p align="center">
-  <a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="360" alt="Developer at work">
-  </a>
-</p>
+## Full Stack Developer | DevOps Engineer | Open Source Contributor
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=akashshelke07&label=Profile%20views&color=0e75b6&style=flat" alt="akashshelke07" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-akashshelke07s-projects.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/akash-shelke-5b1520259/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashshelke594@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/akashshelke07)
+
+![Profile Views](https://komarev.com/ghpvc/?username=akashshelke07&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
+## 👨‍💻 About Me
 
+I'm a passionate **Full Stack Developer** and **DevOps Engineer** from India, dedicated to building scalable applications and automating infrastructure. I enjoy contributing to open source projects and mentoring the next generation of developers.
 
-### 🚀 About Mee
-
-* 👨‍💻 I'm currently working on **DevOps and networking**, through hands-on projects and research
-* 🌱 Exploring the world of **DevOps** and modern software delivery
-* 👯 I’m open to collaborate on **MERN stack projects**, **cloud computing**, and **DevOps automation**
-* 💬 Ask me about **Web Development, DevOps, DSA, Mathematics, and Open Source**
-* 📫 **Reach me at:**
-
-  * Portfolio: [portfolio-akashshelke07s-projects.vercel.app](https://portfolio-akashshelke07s-projects.vercel.app)
-
-  * Email: **[akashshelke594@gmail.com](mailto:akashshelke594@gmail.com)**
-* 🏆 **Mentor** at GirlScript Summer of Code (GSSoC) 2025, guiding contributors in their open source journey
+- 🔭 Currently focusing on **DevOps practices** and **cloud-native technologies**
+- 🌱 Deepening expertise in **Kubernetes**, **AWS**, and **Infrastructure as Code**
+- 👥 **Open Source Mentor** at GirlScript Summer of Code (GSSoC) 2025
+- 🤝 Open to collaborating on **MERN stack projects** and **DevOps automation**
+- 💡 Ask me about **Web Development**, **Cloud Infrastructure**, **DevOps**, or **Open Source**
 
 ---
 
-### 🌐 Connect with Me
+## 🛠️ Technical Stack
 
-<p align="left">
-  <a href="https://x.com/akashshelke07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="30" /></a>
-  <a href="https://in.linkedin.com/in/akash-shelke-5b1520259/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" /></a>
-  <a href="https://instagram.com/skyler_rtg" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" /></a>
-  <a href="https://www.hackerrank.com/profile/akashshelke594" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="30" height="30" /></a>
-  <a href="https://leetcode.com/skyler_0777/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30" /></a>
-  <a href="https://www.geeksforgeeks.org/user/akash07shelke/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="30" height="30" /></a>
-  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="30" height="30" /></a>
-</p>
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🛠️ Languages & Tools
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-  <!-- Frontend & Styling -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
+### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-  <!-- Backend & APIs -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-
-  <!-- DevOps & Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" />
-
-  <!-- AI/NLP -->
-  <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" width="40" />
-</p>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashshelke07&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashshelke07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashshelke07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
 
-<br><br><br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashshelke07&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashshelke07" alt="GitHub Streak" />
-</p>
+---
+
+## 🏆 Achievements & Recognition
+
+- 🥇 **Mentor** at GirlScript Summer of Code (GSSoC) 2025
+- 🌟 **Open Source Contributor** with multiple project contributions
+- 📚 **Active Problem Solver** on LeetCode and HackerRank
+
+### Coding Platforms
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/akashshelke594)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/skyler_0777/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/akash07shelke/)
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced Kubernetes orchestration
+  - Cloud-native architecture patterns
+  - Infrastructure automation with Terraform
+  - Monitoring and observability best practices
+
+Building:
+  - Scalable microservices architectures
+  - CI/CD pipelines with GitHub Actions
+  - Infrastructure as Code solutions
+  - Full-stack web applications
+```
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm always interested in working on:
+
+- 🌐 **Full Stack Web Applications** (MERN stack)
+- ☁️ **Cloud Infrastructure Projects**
+- 🔧 **DevOps Automation Tools**
+- 🚀 **Open Source Initiatives**
+- 📚 **Developer Mentoring Programs**
+
+---
+
+## 📬 Get In Touch
+
+Whether you want to discuss technology, collaborate on a project, or just say hello, I'd love to connect!
+
+**📧 Email:** [akashshelke594@gmail.com](mailto:akashshelke594@gmail.com)  
+**🌐 Portfolio:** [portfolio-akashshelke07s-projects.vercel.app](https://portfolio-akashshelke07s-projects.vercel.app)
+
+---
+
+<div align="center">
+  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</div>
+
+<div align="center">
+  
+  **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
+  
+</div>
