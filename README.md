@@ -1,8 +1,8 @@
-## Akash Shelke
+# Akash Shelke
 
-## Full Stack Developer | DevOps Engineer | Open Source Contributor
+**Full Stack Developer | DevOps Engineer | Open Source Contributor**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://x-blush-two.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-akashshelke07s-projects.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/akash-shelke-5b1520259/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashshelke594@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/akashshelke07)
@@ -11,38 +11,44 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a passionate **Full Stack Developer** and **DevOps Engineer** from India, dedicated to building scalable applications and automating infrastructure. I enjoy contributing to open source projects and mentoring the next generation of developers.
+Experienced Full Stack Developer and DevOps Engineer specializing in scalable web applications and cloud infrastructure automation. I am passionate about leveraging modern technologies to solve complex problems and contribute actively to the open-source community.
 
-- 🔭 Currently focusing on **DevOps practices** and **cloud-native technologies**
-- 🌱 Deepening expertise in **Kubernetes**, **AWS**, and **Infrastructure as Code**
-- 👥 **Open Source Mentor** at GirlScript Summer of Code (GSSoC) 2025
-- 🤝 Open to collaborating on **MERN stack projects** and **DevOps automation**
-- 💡 Ask me about **Web Development**, **Cloud Infrastructure**, **DevOps**, or **Open Source**
+**Current Focus Areas:**
+- Cloud-native application development and deployment
+- Infrastructure automation and monitoring solutions
+- Mentoring emerging developers in open-source contributions
+- Building robust CI/CD pipelines and DevOps workflows
+
+**Professional Highlights:**
+- 🎯 Open Source Mentor at **GirlScript Summer of Code (GSSoC) 2025**
+- 🚀 Expertise in full-stack development with **MERN** ecosystem
+- ☁️ Proficient in **AWS** cloud services and **Kubernetes** orchestration
+- 🔧 Experienced in **Infrastructure as Code** and automation tools
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Expertise
 
-### Programming Languages
+### **Core Programming Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Frontend Development
+### **Frontend Technologies**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend Development
+### **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### DevOps & Cloud
+### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -50,11 +56,11 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** from India, de
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### Monitoring & Observability
+### **Monitoring & Observability**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### Tools & Platforms
+### **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -65,7 +71,7 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** from India, de
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashshelke07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
@@ -78,64 +84,84 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** from India, de
 
 ---
 
-## 🏆 Achievements & Recognition
+## Professional Development
 
-- 🥇 **Mentor** at GirlScript Summer of Code (GSSoC) 2025
-- 🌟 **Open Source Contributor** with multiple project contributions
-- 📚 **Active Problem Solver** on LeetCode and HackerRank
-
-### Coding Platforms
+### **Coding Platforms**
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/akashshelke594)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/skyler_0777/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/akash07shelke/)
 
+### **Achievements & Recognition**
+- **🥇 Open Source Mentor** - GirlScript Summer of Code (GSSoC) 2025
+- **🌟 Active Contributor** - Multiple open-source projects and repositories
+- **📈 Problem Solver** - Consistent performance across competitive programming platforms
+
 ---
 
-## 🎯 Current Focus
+## Current Learning Path
 
 ```yaml
-Learning:
-  - Advanced Kubernetes orchestration
-  - Cloud-native architecture patterns
-  - Infrastructure automation with Terraform
-  - Monitoring and observability best practices
-
-Building:
-  - Scalable microservices architectures
-  - CI/CD pipelines with GitHub Actions
-  - Infrastructure as Code solutions
-  - Full-stack web applications
+Advanced Skills Development:
+  Infrastructure:
+    - Advanced Kubernetes orchestration patterns
+    - Multi-cloud deployment strategies
+    - Service mesh implementation (Istio)
+    
+  Automation:
+    - Infrastructure as Code with Terraform modules
+    - Advanced CI/CD pipeline optimization
+    - GitOps workflows and best practices
+    
+  Architecture:
+    - Microservices design patterns
+    - Event-driven architecture
+    - Cloud-native security practices
 ```
 
 ---
 
-## 🤝 Let's Collaborate
+## Collaboration Opportunities
 
-I'm always interested in working on:
+I am actively seeking collaboration opportunities in the following areas:
 
-- 🌐 **Full Stack Web Applications** (MERN stack)
-- ☁️ **Cloud Infrastructure Projects**
-- 🔧 **DevOps Automation Tools**
-- 🚀 **Open Source Initiatives**
-- 📚 **Developer Mentoring Programs**
+**🔹 Full Stack Development**
+- Modern web applications using MERN/MEAN stack
+- Progressive Web Applications (PWAs)
+- E-commerce and SaaS platforms
+
+**🔹 DevOps & Cloud Infrastructure**
+- Kubernetes cluster management and optimization
+- AWS cloud architecture design
+- CI/CD pipeline implementation and automation
+
+**🔹 Open Source Contributions**
+- Developer tools and utilities
+- Educational resources and documentation
+- Community-driven projects
+
+**🔹 Mentorship & Knowledge Sharing**
+- Technical workshops and webinars
+- Code reviews and architectural guidance
+- Career guidance for junior developers
 
 ---
 
-## 📬 Get In Touch
+## Professional Contact
 
-Whether you want to discuss technology, collaborate on a project, or just say hello, I'd love to connect!
+I welcome opportunities to discuss technology, potential collaborations, or professional engagements.
 
 **📧 Email:** [akashshelke594@gmail.com](mailto:akashshelke594@gmail.com)  
-**🌐 Portfolio:** [portfolio](https://x-blush-two.vercel.app/)
+**🌐 Portfolio:** [View Portfolio](https://x-blush-two.vercel.app/)  
+**💼 LinkedIn:** [Connect on LinkedIn](https://in.linkedin.com/in/akash-shelke-5b1520259/)
 
 ---
 
 <div align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</div>
+  
+### "Clean code always looks like it was written by someone who cares." - Robert C. Martin
 
-<div align="center">
-  
-  **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
-  
+**Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities.**
+
+⭐ **If you find my work valuable, please consider starring the repositories!**
+
 </div>
