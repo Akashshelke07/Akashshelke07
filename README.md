@@ -126,7 +126,7 @@ I'm always interested in working on:
 Whether you want to discuss technology, collaborate on a project, or just say hello, I'd love to connect!
 
 **📧 Email:** [akashshelke594@gmail.com](mailto:akashshelke594@gmail.com)  
-**🌐 Portfolio:** [portfolio](https://x-blush-two.vercel.app/contact)
+**🌐 Portfolio:** [portfolio](https://x-blush-two.vercel.app/)
 
 ---
 
