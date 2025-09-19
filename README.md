@@ -1,4 +1,4 @@
-## Akash Shelke
+# Akash Shelke
 
 ## Full Stack Developer | DevOps Engineer | Open Source Contributor
 
@@ -13,13 +13,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** and **DevOps Engineer** from India, dedicated to building scalable applications and automating infrastructure. I enjoy contributing to open source projects and mentoring the next generation of developers.
+I'm a passionate **Full Stack Developer** and **DevOps Engineer** from India, dedicated to building scalable applications and automating infrastructure. I actively contribute to open source projects and mentor aspiring developers.
 
 - 🔭 Currently focusing on **DevOps practices** and **cloud-native technologies**
-- 🌱 Deepening expertise in **Kubernetes**, **AWS**, and **Infrastructure as Code**
+- 🌱 Expanding expertise in **Kubernetes**, **AWS**, and **Infrastructure as Code**
 - 👥 **Open Source Mentor** at GirlScript Summer of Code (GSSoC) 2025
-- 🤝 Open to collaborating on **MERN stack projects** and **DevOps automation**
-- 💡 Ask me about **Web Development**, **Cloud Infrastructure**, **DevOps**, or **Open Source**
+- 🤝 Available for collaboration on **MERN stack projects** and **DevOps automation**
+- 💡 Feel free to ask me about **Web Development**, **Cloud Infrastructure**, **DevOps**, or **Open Source**
 
 ---
 
@@ -81,8 +81,8 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** from India, de
 ## 🏆 Achievements & Recognition
 
 - 🥇 **Mentor** at GirlScript Summer of Code (GSSoC) 2025
-- 🌟 **Open Source Contributor** with multiple project contributions
-- 📚 **Active Problem Solver** on LeetCode and HackerRank
+- 🌟 **Active Open Source Contributor** across multiple projects
+- 📚 **Competitive Programmer** on LeetCode and HackerRank
 
 ### Coding Platforms
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/akashshelke594)
@@ -109,7 +109,7 @@ Building:
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Open for Collaboration
 
 I'm always interested in working on:
 
@@ -123,10 +123,10 @@ I'm always interested in working on:
 
 ## 📬 Get In Touch
 
-Whether you want to discuss technology, collaborate on a project, or just say hello, I'd love to connect!
+Whether you want to discuss technology, collaborate on a project, or just connect, I'd love to hear from you!
 
 **📧 Email:** [akashshelke594@gmail.com](mailto:akashshelke594@gmail.com)  
-**🌐 Portfolio:** [portfolio](https://x-blush-two.vercel.app/)
+**🌐 Portfolio:** [View My Work](https://x-blush-two.vercel.app/)
 
 ---
 
