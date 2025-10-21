@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Mee
+## 👨‍💻 About Me
 
 I'm a passionate **Full Stack Developer** and **DevOps Engineer** from India, dedicated to building scalable applications and automating infrastructure. I actively contribute to open source projects and mentor aspiring developers.
 
