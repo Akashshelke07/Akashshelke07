@@ -1,6 +1,6 @@
 # Akash Shelke
 
-## Full Stack Developer | DevOps Engineer | Open Source Contributor
+## Full Stack Developer | Generative AI Engineer | Open Source Contributor
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://x-blush-two.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-shelke-5b1520259/)
@@ -13,55 +13,39 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** and **DevOps Engineer** from India, dedicated to building scalable applications and automating infrastructure. I actively contribute to open source projects and mentor aspiring developers.
+I'm a **Full Stack Developer** specializing in **Generative AI** from India. I focus on building "AI-first" applications, integrating Large Language Models (LLMs) into modern web architectures. I also possess a strong technical background in **Computer Networking** and **Cloud Infrastructure**, allowing me to build and deploy secure, high-performance systems.
 
-- 🔭 Currently focusing on **DevOps practices** and **cloud-native technologies**
-- 🌱 Expanding expertise in **Kubernetes**, **AWS**, and **Infrastructure as Code**
+- 🔭 Currently focusing on **RAG (Retrieval-Augmented Generation)** and **AI Agents**
+- 🌱 Mastering **LangChain**, **LlamaIndex**, and **Vector Databases**
+- 🌐 Deep understanding of **Networking Fundamentals** (TCP/IP, DNS, OSI Model, Load Balancing)
+- ☁️ Skilled in **Infrastructure Management** (Docker, Kubernetes, AWS)
 - 👥 **Open Source Mentor** at GirlScript Summer of Code (GSSoC) 2025
-- 🤝 Available for collaboration on **MERN stack projects** and **DevOps automation**
-- 💡 Feel free to ask me about **Web Development**, **Cloud Infrastructure**, **DevOps**, or **Open Source**
+- 💡 Ask me about **LLM Integration**, **Full Stack Security**, or **Network Architecture**
 
 ---
 
 ## 🛠️ Technical Stack
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🤖 Generative AI & LLMs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-272727?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-blue?style=for-the-badge)
 
-### Frontend Development
+### 🌐 Full Stack Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### DevOps & Cloud
+### 📡 Networking & Infrastructure
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-TCP/IP-blueviolet?style=for-the-badge)
 
 ---
 
@@ -72,16 +56,12 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** from India, de
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashshelke07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashshelke07&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
-</div>
-
 ---
 
 ## 🏆 Achievements & Recognition
 
 - 🥇 **Mentor** at GirlScript Summer of Code (GSSoC) 2025
-- 🌟 **Active Open Source Contributor** across multiple projects
+- 🌟 **Active Contributor** to AI-focused Open Source projects
 - 📚 **Competitive Programmer** on LeetCode and HackerRank
 
 ### Coding Platforms
@@ -94,48 +74,12 @@ I'm a passionate **Full Stack Developer** and **DevOps Engineer** from India, de
 ## 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Advanced Kubernetes orchestration
-  - Cloud-native architecture patterns
-  - Infrastructure automation with Terraform
-  - Monitoring and observability best practices
+Generative AI:
+  - Building RAG pipelines with LangChain
+  - Fine-tuning LLMs for specific niche use-cases
+  - Developing multi-agent AI systems
 
-Building:
-  - Scalable microservices architectures
-  - CI/CD pipelines with GitHub Actions
-  - Infrastructure as Code solutions
-  - Full-stack web applications
-```
-
----
-
-## 🤝 Open for Collaboration
-
-I'm always interested in working on:
-
-- 🌐 **Full Stack Web Applications** (MERN stack)
-- ☁️ **Cloud Infrastructure Projects**
-- 🔧 **DevOps Automation Tools**
-- 🚀 **Open Source Initiatives**
-- 📚 **Developer Mentoring Programs**
-
----
-
-## 📬 Get In Touch
-
-Whether you want to discuss technology, collaborate on a project, or just connect, I'd love to hear from you!
-
-**📧 Email:** [akashshelke594@gmail.com](mailto:akashshelke594@gmail.com)  
-**🌐 Portfolio:** [View My Work](https://x-blush-two.vercel.app/)
-
----
-
-<div align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</div>
-
-<div align="center">
-  
-  **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
-  
-</div>
+Networking & Systems:
+  - High-availability server architecture
+  - Automated network configuration & security
+  - Cloud-native AI model deployment
