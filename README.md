@@ -115,6 +115,23 @@ The frontend gives users real-time visibility into what each agent is doing, int
 
 ---
 
+### 🔐 PromptForge — Local Solidity Smart Contract Generator
+> *Write secure Solidity smart contracts from plain English — no cloud APIs, no data leaks, zero cost.*
+
+Writing secure Solidity is hard. Most developers either rely on expensive cloud AI APIs (which means your proprietary contract logic leaves your machine) or spend hours manually referencing OpenZeppelin docs and EIP standards. I built PromptForge to solve both problems at once.
+
+It's a **GenAI-powered local backend** — fine-tuned specifically for Solidity — that lets developers describe what they want in plain English and get production-ready smart contract code back instantly. Everything runs **100% on your machine**. No API keys. No latency. No privacy trade-offs.
+
+The secret is in the fine-tuning pipeline. I took `unsloth/Llama-3.2-1B-Instruct-bnb-4bit` as the base model and injected Solidity expertise using **PEFT with LoRA adapters** — so the model deeply understands Web3 semantics, OpenZeppelin patterns, and blockchain security best practices rather than just pattern-matching generic code. **4-bit quantization via Unsloth** keeps VRAM usage low enough to run comfortably on consumer-grade hardware.
+
+The stack is clean and fast: **FastAPI + Uvicorn** serves the local API, **PyTorch + HuggingFace Transformers** handles GPU inference via CUDA, and the fine-tuned LoRA agent intercepts the base Llama chat pipeline to generate contracts that are actually secure — not just syntactically valid.
+
+**Tech:** `Python` `FastAPI` `Uvicorn` `PyTorch` `HuggingFace Transformers` `Unsloth` `PEFT (LoRA)` `Llama 3.2` `BNB 4-bit Quantization` `CUDA`
+
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashshelke07)
+
+---
+
 ### ☁️ Cloud Database-as-a-Service (DBaaS) Platform
 > *Spin up, query, and monitor any database — from your browser, in seconds.*
 
