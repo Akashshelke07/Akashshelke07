@@ -9,8 +9,7 @@
 </a>
 
 <br/>
-<br/>
-<br/>
+
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0f0c29?style=for-the-badge&logoColor=white)](https://x-blush-two.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-shelke-5b1520259/)
