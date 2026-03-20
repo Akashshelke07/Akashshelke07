@@ -98,17 +98,59 @@ const akash = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+---
 
-| 🔷 Project | 📌 Description | 🛠️ Stack | 🔗 Link |
-|:---|:---|:---|:---:|
-| **🤖 RAG Intelligence Engine** | Production-grade Retrieval-Augmented Generation pipeline with multi-source document ingestion, semantic search, and streaming LLM responses | `LangChain` `Pinecone` `OpenAI` `FastAPI` `React` | [View →](https://github.com/akashshelke07) |
-| **🧠 Multi-Agent AI System** | Autonomous agent framework with tool-use, memory management, and task orchestration for complex real-world workflows | `LangChain Agents` `OpenAI` `Python` `Node.js` | [View →](https://github.com/akashshelke07) |
-| **🌐 AI-Powered Full Stack SaaS** | End-to-end SaaS platform with LLM integration, real-time features, JWT auth, Stripe payments, and CI/CD pipeline | `Next.js` `TypeScript` `MongoDB` `Docker` `AWS` | [View →](https://github.com/akashshelke07) |
-| **📡 Network Security Monitor** | Real-time network traffic analyser with anomaly detection, alert system, and dashboard visualization | `Python` `Nginx` `Docker` `React` `WebSockets` | [View →](https://github.com/akashshelke07) |
-| **🔍 Semantic Search Engine** | Custom vector search engine with hybrid retrieval (dense + sparse), re-ranking, and relevance scoring | `LlamaIndex` `Hugging Face` `FastAPI` `PostgreSQL` | [View →](https://github.com/akashshelke07) |
+### 🧾 FinReport Agent
+> *An AI agent that turns raw accounting data into boardroom-ready reports — automatically.*
 
-</div>
+I built this because generating financial reports is painfully manual. FinReport Agent ingests raw accounting data and autonomously produces financial statements, management reports, and compliance documents — no human hand-holding required.
+
+Under the hood, it runs a **multi-agent LangGraph workflow** where each agent has a distinct job: one handles data ingestion, another does financial reasoning, a third validates compliance, and the last one writes the report in plain English. To keep compliance checks grounded in reality, I built a **RAG pipeline** using ChromaDB that references actual regulatory standards — SOX, GDPR, IFRS, and ASC.
+
+The frontend gives users real-time visibility into what each agent is doing, interactive data charts, and one-click PDF/Excel exports.
+
+**Tech:** `React` `Vite` `Tailwind CSS` `Python` `FastAPI` `LangChain` `LangGraph` `Groq` `ChromaDB` `pandas`
+
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashshelke07)
+
+---
+
+### ☁️ Cloud Database-as-a-Service (DBaaS) Platform
+> *Spin up, query, and monitor any database — from your browser, in seconds.*
+
+Managing databases usually means SSH sessions, CLI tools, and a lot of context switching. I wanted to eliminate that. This platform lets users provision MySQL, PostgreSQL, MongoDB, or Redis instances and interact with them entirely through a web UI — no external client needed.
+
+I containerized each database instance with **Docker** and orchestrated them via **Kubernetes** for reliability. For observability, I wired up **Prometheus + Grafana** dashboards so users can see query performance, resource usage, and health metrics in real time. The most fun part: an **LLM-powered assistant** that takes natural language questions and recommends database configurations or tuning strategies.
+
+**Tech:** `React` `Node.js` `Docker` `Kubernetes` `PostgreSQL` `Prometheus` `Grafana`
+
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashshelke07)
+
+---
+
+### 📚 S Brainiac — AI-Assisted E-Learning Platform *(Freelance)*
+> *A production e-learning platform that served 1,000+ users with an 85% course completion rate.*
+
+This was a full freelance engagement — I designed, built, and deployed the entire platform solo. The goal was a scalable, reliable e-learning experience with smart features baked in from day one.
+
+I built the backend with **Node.js + MongoDB**, handling auth, role-based access control, and real-time progress tracking through clean REST APIs. Media storage runs on **AWS S3** for scale, payments go through **Razorpay**, and the whole thing is deployed on **Vercel + Render** with consistent uptime. The AI layer personalizes content recommendations based on learner behaviour and progress patterns.
+
+**Tech:** `MERN Stack` `Redux Toolkit` `AWS S3` `Razorpay` `Vercel` `Render`
+
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashshelke07)
+
+---
+
+### ✈️ AI Travel Recommendation Engine *(ScaleFull Technologies — Internship)*
+> *Personalized travel suggestions powered by NLP embeddings and mood-aware AI.*
+
+During my internship at ScaleFull Technologies, I built the AI brain behind a travel app. The challenge: recommend destinations that actually match how someone *feels*, not just what they typed.
+
+I trained the recommendation engine using **Scikit-learn** and **Sentence-Transformers**, processing large-scale Kaggle travel datasets through a **Python/Flask microservice**. The NLP embeddings capture user mood, budget, and preferences to surface genuinely relevant destinations. The full-stack layer — **React 18 + Node.js + MongoDB** — connects cleanly to the AI via a REST API, making the whole experience feel seamless.
+
+**Tech:** `React` `Node.js` `Express` `MongoDB` `JWT` `Python` `Flask` `Scikit-learn` `Sentence-Transformers`
+
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashshelke07)
 
 ---
 
