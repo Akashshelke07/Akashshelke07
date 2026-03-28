@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2000&pause=99999&color=00FF88&center=true&vCenter=true&width=500&height=60&lines=AKASH+SHELKE" alt="Akash Shelke" />
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Full+Stack+Developer+%26+Generative+AI+Engineer;RAG+Pipelines+%7C+LLM+Integrations+%7C+Multi-Agent+Systems" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=99999&color=00FF88&center=true&vCenter=true&width=560&height=30&lines=Full+Stack+Developer+%26+Generative+AI+Engineer" alt="Role" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2500&pause=99999&color=6e7681&center=true&vCenter=true&width=500&height=30&lines=RAG+Pipelines+%7C+LLM+Integrations+%7C+Multi-Agent+Systems" alt="Focus" />
 
 <br/>
 
@@ -14,21 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://linkedin.com/in/akash-shelke-5b1520259/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://leetcode.com/u/skyler_0777/)
 [![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=0d1117&color=00ff88)](mailto:akashshelke594@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-```javascript
-const akash = {
-  role     : "Full Stack Developer & Generative AI Engineer",
-  location : "India 🇮🇳",
-  focus    : ["RAG Pipelines", "LLM Integrations", "Multi-Agent Systems"],
-  available: true   // → open to exciting opportunities
-};
-```
 
 </div>
 
