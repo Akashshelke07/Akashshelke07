@@ -2,13 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=120&section=header" width="100%"/>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2000&pause=99999&color=00FF88&center=true&vCenter=true&width=500&height=60&lines=AKASH+SHELKE" alt="Akash Shelke" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0d1117,100:0d1117&height=100&text=AKASH%20SHELKE&fontSize=60&fontColor=00ff88&fontAlignY=70&fontAlign=50&desc=Full%20Stack%20Developer%20%26%20Generative%20AI%20Engineer&descSize=15&descAlignY=95&descFontColor=00ff88&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=99999&color=00FF88&center=true&vCenter=true&width=560&height=30&lines=Full+Stack+Developer+%26+Generative+AI+Engineer" alt="Role" />
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2500&pause=99999&color=6e7681&center=true&vCenter=true&width=500&height=30&lines=RAG+Pipelines+%7C+LLM+Integrations+%7C+Multi-Agent+Systems" alt="Focus" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2500&pause=99999&color=6e7681&center=true&vCenter=true&width=480&height=28&lines=RAG+Pipelines+%7C+LLM+Integrations+%7C+Multi-Agent+Systems" alt="Focus" />
 
 <br/>
 
