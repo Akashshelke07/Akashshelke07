@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://x-blush-two.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://akashshelke007.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://linkedin.com/in/akash-shelke-5b1520259/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://leetcode.com/u/skyler_0777/)
 [![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=0d1117&color=00ff88)](mailto:akashshelke594@gmail.com)
