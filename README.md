@@ -1,51 +1,122 @@
-# Akash Shelke
+<div align="center">
 
-Full Stack Developer & Generative AI Engineer based in India.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=120&section=header" width="100%"/>
 
-I build AI-powered web applications — RAG pipelines, LLM integrations, and multi-agent systems. I also do freelance work and contribute to open source.
+</div>
 
----
+<div align="center">
 
-## What I work with
+```
+█████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗    ███████╗██╗  ██╗███████╗██╗     ██╗  ██╗███████╗
+██╔══██╗██║ ██╔╝██╔══██╗██╔════╝██║  ██║    ██╔════╝██║  ██║██╔════╝██║     ██║ ██╔╝██╔════╝
+███████║█████╔╝ ███████║███████╗███████║    ███████╗███████║█████╗  ██║     █████╔╝ █████╗  
+██╔══██║██╔═██╗ ██╔══██║╚════██║██╔══██║    ╚════██║██╔══██║██╔══╝  ██║     ██╔═██╗ ██╔══╝  
+██║  ██║██║  ██╗██║  ██║███████║██║  ██║    ███████║██║  ██║███████╗███████╗██║  ██╗███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝
+```
 
-**AI/ML** — LangChain, LlamaIndex, OpenAI, HuggingFace, ChromaDB, Pinecone  
-**Frontend** — React, Next.js, TypeScript, Tailwind CSS  
-**Backend** — Node.js, Express, Python, FastAPI  
-**Databases** — MongoDB, PostgreSQL, MySQL, Redis  
-**Infra** — Docker, Kubernetes, AWS, Nginx, Linux  
+</div>
 
----
+<div align="center">
 
-## Projects
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Full+Stack+Developer+%26+Generative+AI+Engineer;RAG+Pipelines+%7C+LLM+Integrations+%7C+Multi-Agent+Systems" alt="Typing SVG" />
 
-**FinReport Agent**  
-AI agent that converts raw accounting data into financial reports automatically. Built with LangGraph multi-agent workflow + RAG pipeline referencing SOX, GDPR, IFRS standards.  
-`Python` `FastAPI` `LangChain` `LangGraph` `ChromaDB` `React`
+</div>
 
-**PromptForge**  
-Local Solidity smart contract generator — runs 100% on your machine, no API keys. Fine-tuned Llama 3.2 with LoRA adapters specifically for Web3 and OpenZeppelin patterns.  
-`Python` `FastAPI` `PyTorch` `HuggingFace` `Unsloth` `PEFT`
+<div align="center">
 
-**Cloud DBaaS Platform**  
-Browser-based platform to spin up and query MySQL, PostgreSQL, MongoDB or Redis instances. Containerized with Docker, orchestrated via Kubernetes, monitored with Grafana.  
-`React` `Node.js` `Docker` `Kubernetes` `Prometheus` `Grafana`
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://x-blush-two.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://linkedin.com/in/akash-shelke-5b1520259/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://leetcode.com/u/skyler_0777/)
+[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=0d1117&color=00ff88)](mailto:akashshelke594@gmail.com)
 
-**S Brainiac — E-Learning Platform** *(Freelance)*  
-Full e-learning platform built solo. 1,000+ users, 85% course completion rate. Payments via Razorpay, media on AWS S3.  
-`MERN Stack` `Redux Toolkit` `AWS S3` `Razorpay`
-
-**AI Travel Recommendation Engine** *(ScaleFull Technologies)*  
-Mood-aware travel recommendations using NLP embeddings and Sentence-Transformers. Built during internship.  
-`React` `Node.js` `Python` `Flask` `Scikit-learn` `Sentence-Transformers`
+</div>
 
 ---
 
-## GitHub Stats
+<div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=akashshelke07&show_icons=true&hide_border=true&count_private=true)
+```javascript
+const akash = {
+  role     : "Full Stack Developer & Generative AI Engineer",
+  location : "India 🇮🇳",
+  focus    : ["RAG Pipelines", "LLM Integrations", "Multi-Agent Systems"],
+  available: true   // → open to exciting opportunities
+};
+```
+
+</div>
 
 ---
 
-## Find me
+## `⚡ Tech Arsenal`
 
-[Portfolio](https://x-blush-two.vercel.app) · [LinkedIn](https://linkedin.com/in/akash-shelke-5b1520259/) · [Email](mailto:akashshelke594@gmail.com) · [LeetCode](https://leetcode.com/u/skyler_0777/)
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🤖 AI / ML**
+```
+LangChain · LlamaIndex · OpenAI
+HuggingFace · ChromaDB · Pinecone
+PyTorch · Scikit-learn · PEFT · Unsloth
+```
+
+**🎨 Frontend**
+```
+React · Next.js · TypeScript
+Tailwind CSS · Redux Toolkit
+```
+
+</td>
+<td valign="top" width="50%">
+
+**⚙️ Backend**
+```
+Node.js · Express · Python · FastAPI · Flask
+```
+
+**🗄️ Databases**
+```
+MongoDB · PostgreSQL · MySQL · Redis
+```
+
+**☁️ Infrastructure**
+```
+Docker · Kubernetes · AWS · Nginx · Linux
+Prometheus · Grafana
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `📊 GitHub Activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akashshelke07&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashshelke07&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff88&sideLabels=00ff88&dates=6e7681" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashshelke07&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=00ff8820" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=80&section=footer"/>
+
+**`> Building intelligent systems. One commit at a time._`**
+
+![Profile Views](https://komarev.com/ghpvc/?username=akashshelke07&style=for-the-badge&color=00ff88&labelColor=0d1117)
+
+</div>
