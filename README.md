@@ -1,266 +1,51 @@
-<div align="center">
+# Akash Shelke
 
-<!-- Dynamic Header with Typing SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akash%20Shelke&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20Open%20Source%20Mentor&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+Full Stack Developer & Generative AI Engineer based in India.
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Building+AI-First+Applications+%F0%9F%A4%96;RAG+Pipelines+%7C+LLM+Integration+%7C+AI+Agents+%F0%9F%9A%80;Turning+Ideas+Into+Scalable+Systems+%F0%9F%8C%90" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-0f0c29?style=for-the-badge&logoColor=white)](https://x-blush-two.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-shelke-5b1520259/)
-[![Email](https://img.shields.io/badge/Gmail-24243e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashshelke594@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-302b63?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akashshelke07)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=akashshelke07&label=Profile+Views&color=A78BFA&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/akashshelke07?style=flat-square&color=A78BFA&labelColor=0f0c29)
-
-</div>
+I build AI-powered web applications — RAG pipelines, LLM integrations, and multi-agent systems. I also do freelance work and contribute to open source.
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98df23d457c1e19d3dbf9b7a5/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+## What I work with
 
-## 🧠 About Me
-
-```typescript
-const akash = {
-  role:       "Full Stack Developer & Generative AI Engineer",
-  location:   "India 🇮🇳",
-  focus:      ["RAG Pipelines", "AI Agents", "LLM Integration"],
-  stack:      ["React", "Next.js", "Node.js", "Python"],
-  infra:      ["Docker", "Kubernetes", "AWS", "Nginx"],
-  currently:  "Mastering LangChain, LlamaIndex & Vector DBs",
-  openTo:     "Freelance, Full-time & Open Source Collaborations",
-};
-```
-
-- 🔭 Building **production-grade Generative AI** applications end-to-end
-- 🧩 Architecting **multi-agent AI systems** with real-world use-cases
-- 🌐 Deep expertise in **Networking** — TCP/IP, DNS, OSI, Load Balancing
-- ☁️ Deploying cloud-native systems on **AWS + Docker + Kubernetes**
-- 👥 **Open Source Mentor** @ GirlScript Summer of Code 2025
-- 💡 Ask me about **LLM Integration**, **Full Stack Security**, or **Network Architecture**
-
-<br clear="right"/>
+**AI/ML** — LangChain, LlamaIndex, OpenAI, HuggingFace, ChromaDB, Pinecone  
+**Frontend** — React, Next.js, TypeScript, Tailwind CSS  
+**Backend** — Node.js, Express, Python, FastAPI  
+**Databases** — MongoDB, PostgreSQL, MySQL, Redis  
+**Infra** — Docker, Kubernetes, AWS, Nginx, Linux  
 
 ---
 
-## 🛠️ Tech Arsenal
+## Projects
 
-<div align="center">
+**FinReport Agent**  
+AI agent that converts raw accounting data into financial reports automatically. Built with LangGraph multi-agent workflow + RAG pipeline referencing SOX, GDPR, IFRS standards.  
+`Python` `FastAPI` `LangChain` `LangGraph` `ChromaDB` `React`
 
-### 🤖 Generative AI & LLMs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B21A8?style=for-the-badge&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-272727?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=for-the-badge)
+**PromptForge**  
+Local Solidity smart contract generator — runs 100% on your machine, no API keys. Fine-tuned Llama 3.2 with LoRA adapters specifically for Web3 and OpenZeppelin patterns.  
+`Python` `FastAPI` `PyTorch` `HuggingFace` `Unsloth` `PEFT`
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+**Cloud DBaaS Platform**  
+Browser-based platform to spin up and query MySQL, PostgreSQL, MongoDB or Redis instances. Containerized with Docker, orchestrated via Kubernetes, monitored with Grafana.  
+`React` `Node.js` `Docker` `Kubernetes` `Prometheus` `Grafana`
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge)
+**S Brainiac — E-Learning Platform** *(Freelance)*  
+Full e-learning platform built solo. 1,000+ users, 85% course completion rate. Payments via Razorpay, media on AWS S3.  
+`MERN Stack` `Redux Toolkit` `AWS S3` `Razorpay`
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 📡 Infrastructure & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+**AI Travel Recommendation Engine** *(ScaleFull Technologies)*  
+Mood-aware travel recommendations using NLP embeddings and Sentence-Transformers. Built during internship.  
+`React` `Node.js` `Python` `Flask` `Scikit-learn` `Sentence-Transformers`
 
 ---
 
-## 🚀 Featured Projects
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=akashshelke07&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
-### 🧾 FinReport Agent
-> *An AI agent that turns raw accounting data into boardroom-ready reports — automatically.*
+## Find me
 
-I built this because generating financial reports is painfully manual. FinReport Agent ingests raw accounting data and autonomously produces financial statements, management reports, and compliance documents — no human hand-holding required.
-
-Under the hood, it runs a **multi-agent LangGraph workflow** where each agent has a distinct job: one handles data ingestion, another does financial reasoning, a third validates compliance, and the last one writes the report in plain English. To keep compliance checks grounded in reality, I built a **RAG pipeline** using ChromaDB that references actual regulatory standards — SOX, GDPR, IFRS, and ASC.
-
-The frontend gives users real-time visibility into what each agent is doing, interactive data charts, and one-click PDF/Excel exports.
-
-**Tech:** `React` `Vite` `Tailwind CSS` `Python` `FastAPI` `LangChain` `LangGraph` `Groq` `ChromaDB` `pandas`
-
-[![View Project](https://img.shields.io/badge/GitHub-View%20Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashshelke07)
-
----
-
-### 🔐 PromptForge — Local Solidity Smart Contract Generator
-> *Write secure Solidity smart contracts from plain English — no cloud APIs, no data leaks, zero cost.*
-
-Writing secure Solidity is hard. Most developers either rely on expensive cloud AI APIs (which means your proprietary contract logic leaves your machine) or spend hours manually referencing OpenZeppelin docs and EIP standards. I built PromptForge to solve both problems at once.
-
-It's a **GenAI-powered local backend** — fine-tuned specifically for Solidity — that lets developers describe what they want in plain English and get production-ready smart contract code back instantly. Everything runs **100% on your machine**. No API keys. No latency. No privacy trade-offs.
-
-The secret is in the fine-tuning pipeline. I took `unsloth/Llama-3.2-1B-Instruct-bnb-4bit` as the base model and injected Solidity expertise using **PEFT with LoRA adapters** — so the model deeply understands Web3 semantics, OpenZeppelin patterns, and blockchain security best practices rather than just pattern-matching generic code. **4-bit quantization via Unsloth** keeps VRAM usage low enough to run comfortably on consumer-grade hardware.
-
-The stack is clean and fast: **FastAPI + Uvicorn** serves the local API, **PyTorch + HuggingFace Transformers** handles GPU inference via CUDA, and the fine-tuned LoRA agent intercepts the base Llama chat pipeline to generate contracts that are actually secure — not just syntactically valid.
-
-**Tech:** `Python` `FastAPI` `Uvicorn` `PyTorch` `HuggingFace Transformers` `Unsloth` `PEFT (LoRA)` `Llama 3.2` `BNB 4-bit Quantization` `CUDA`
-
-[![View Project](https://img.shields.io/badge/GitHub-View%20Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashshelke07)
-
----
-
-### ☁️ Cloud Database-as-a-Service (DBaaS) Platform
-> *Spin up, query, and monitor any database — from your browser, in seconds.*
-
-Managing databases usually means SSH sessions, CLI tools, and a lot of context switching. I wanted to eliminate that. This platform lets users provision MySQL, PostgreSQL, MongoDB, or Redis instances and interact with them entirely through a web UI — no external client needed.
-
-I containerized each database instance with **Docker** and orchestrated them via **Kubernetes** for reliability. For observability, I wired up **Prometheus + Grafana** dashboards so users can see query performance, resource usage, and health metrics in real time. The most fun part: an **LLM-powered assistant** that takes natural language questions and recommends database configurations or tuning strategies.
-
-**Tech:** `React` `Node.js` `Docker` `Kubernetes` `PostgreSQL` `Prometheus` `Grafana`
-
-[![View Project](https://img.shields.io/badge/GitHub-View%20Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashshelke07)
-
----
-
-### 📚 S Brainiac — AI-Assisted E-Learning Platform *(Freelance)*
-> *A production e-learning platform that served 1,000+ users with an 85% course completion rate.*
-
-This was a full freelance engagement — I designed, built, and deployed the entire platform solo. The goal was a scalable, reliable e-learning experience with smart features baked in from day one.
-
-I built the backend with **Node.js + MongoDB**, handling auth, role-based access control, and real-time progress tracking through clean REST APIs. Media storage runs on **AWS S3** for scale, payments go through **Razorpay**, and the whole thing is deployed on **Vercel + Render** with consistent uptime. The AI layer personalizes content recommendations based on learner behaviour and progress patterns.
-
-**Tech:** `MERN Stack` `Redux Toolkit` `AWS S3` `Razorpay` `Vercel` `Render`
-
-[![View Project](https://img.shields.io/badge/GitHub-View%20Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashshelke07)
-
----
-
-### ✈️ AI Travel Recommendation Engine *(ScaleFull Technologies — Internship)*
-> *Personalized travel suggestions powered by NLP embeddings and mood-aware AI.*
-
-During my internship at ScaleFull Technologies, I built the AI brain behind a travel app. The challenge: recommend destinations that actually match how someone *feels*, not just what they typed.
-
-I trained the recommendation engine using **Scikit-learn** and **Sentence-Transformers**, processing large-scale Kaggle travel datasets through a **Python/Flask microservice**. The NLP embeddings capture user mood, budget, and preferences to surface genuinely relevant destinations. The full-stack layer — **React 18 + Node.js + MongoDB** — connects cleanly to the AI via a REST API, making the whole experience feel seamless.
-
-**Tech:** `React` `Node.js` `Express` `MongoDB` `JWT` `Python` `Flask` `Scikit-learn` `Sentence-Transformers`
-
-[![View Project](https://img.shields.io/badge/GitHub-View%20Project-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashshelke07)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akashshelke07&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&border_radius=12" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashshelke07&theme=midnight-purple&hide_border=true&background=0f0c29&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA&border_radius=12" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashshelke07&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ffffff&border_radius=12&langs_count=8" height="160"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashshelke07/akashshelke07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashshelke07/akashshelke07/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akashshelke07/akashshelke07/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-| 🎖️ | Achievement |
-|:---:|:---|
-| 🥇 | **Open Source Mentor** — GirlScript Summer of Code (GSSoC) 2025 |
-| 🤖 | **Generative AI Specialist** — Shipped production RAG & Agent systems |
-| 🌟 | **Active Contributor** — AI-focused open source ecosystem |
-| ☁️ | **Cloud-Native Builder** — Deployed scalable systems on AWS + Kubernetes |
-| 💻 | **Competitive Programmer** — LeetCode, HackerRank & GeeksForGeeks |
-| 🔐 | **Full Stack Security** — Built auth systems, secure APIs, network monitoring |
-
-</div>
-
-<div align="center">
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/akashshelke594)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/skyler_0777/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/akash07shelke/)
-
-</div>
-
----
-
-## 📅 Coding Consistency
-
-<div align="center">
-
-```text
-🌅 Morning Coder     ████████████░░░░░░   Build time: 06:00 – 10:00
-🔥 Deep Work Block   ████████████████░░   Peak flow:  21:00 – 01:00
-📚 Learning Streak   Every day. No exceptions.
-⚡ Commits / Week    10+ consistent contributions
-🎯 Current Goal      Ship 2 AI projects per month
-```
-
-</div>
-
----
-
-## 🌐 Let's Connect & Build
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Open%20to%20Opportunities%20%7C%20Let%27s%20Build%20Something%20Impactful&fontSize=16&fontColor=A78BFA&fontAlignY=60&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-**🚀 Available for:** Freelance Projects · Full-time Roles · Open Source Collaboration · AI Consulting
-
-<br/>
-
-> *"I don't just write code — I architect systems, integrate intelligence, and ship things that matter."*
-
-<br/>
-
-[![Reach Out](https://img.shields.io/badge/📬%20Let's%20Talk-akashshelke594@gmail.com-A78BFA?style=for-the-badge)](mailto:akashshelke594@gmail.com)
-[![View Portfolio](https://img.shields.io/badge/🌐%20View%20Portfolio-x--blush--two.vercel.app-302b63?style=for-the-badge)](https://x-blush-two.vercel.app/)
-
-</div>
+[Portfolio](https://x-blush-two.vercel.app) · [LinkedIn](https://linkedin.com/in/akash-shelke-5b1520259/) · [Email](mailto:akashshelke594@gmail.com) · [LeetCode](https://leetcode.com/u/skyler_0777/)
