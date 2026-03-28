@@ -2,30 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=120&section=header" width="100%"/>
 
-</div>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2000&pause=99999&color=00FF88&center=true&vCenter=true&width=500&height=60&lines=AKASH+SHELKE" alt="Akash Shelke" />
+</h1>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Full+Stack+Developer+%26+Generative+AI+Engineer;RAG+Pipelines+%7C+LLM+Integrations+%7C+Multi-Agent+Systems" alt="Roles" />
 
-```
-█████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗    ███████╗██╗  ██╗███████╗██╗     ██╗  ██╗███████╗
-██╔══██╗██║ ██╔╝██╔══██╗██╔════╝██║  ██║    ██╔════╝██║  ██║██╔════╝██║     ██║ ██╔╝██╔════╝
-███████║█████╔╝ ███████║███████╗███████║    ███████╗███████║█████╗  ██║     █████╔╝ █████╗  
-██╔══██║██╔═██╗ ██╔══██║╚════██║██╔══██║    ╚════██║██╔══██║██╔══╝  ██║     ██╔═██╗ ██╔══╝  
-██║  ██║██║  ██╗██║  ██║███████║██║  ██║    ███████║██║  ██║███████╗███████╗██║  ██╗███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝
-```
+<br/>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Full+Stack+Developer+%26+Generative+AI+Engineer;RAG+Pipelines+%7C+LLM+Integrations+%7C+Multi-Agent+Systems" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://x-blush-two.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://x-blush-two.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://linkedin.com/in/akash-shelke-5b1520259/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://leetcode.com/u/skyler_0777/)
 [![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=0d1117&color=00ff88)](mailto:akashshelke594@gmail.com)
@@ -97,13 +82,11 @@ Prometheus · Grafana
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akashshelke07&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akashshelke07&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashshelke07&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff88&sideLabels=00ff88&dates=6e7681" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashshelke07&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff88&sideLabels=00ff88&dates=6e7681" height="165"/>
-
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashshelke07&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=00ff8820" width="95%"/>
 
