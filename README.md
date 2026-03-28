@@ -28,13 +28,12 @@
 **🤖 AI / ML**
 ```
 LangChain · LlamaIndex · OpenAI
-HuggingFace · ChromaDB · Pinecone
-PyTorch · Scikit-learn · PEFT · Unsloth
+HuggingFace · ChromaDB 
 ```
 
 **🎨 Frontend**
 ```
-React · Next.js · TypeScript
+React · TypeScript
 Tailwind CSS · Redux Toolkit
 ```
 
@@ -48,13 +47,12 @@ Node.js · Express · Python · FastAPI · Flask
 
 **🗄️ Databases**
 ```
-MongoDB · PostgreSQL · MySQL · Redis
+MongoDB ·SQL · Redis
 ```
 
 **☁️ Infrastructure**
 ```
-Docker · Kubernetes · AWS · Nginx · Linux
-Prometheus · Grafana
+Docker · AWS 
 ```
 
 </td>
