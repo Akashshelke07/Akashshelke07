@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=120&section=header&text=AKASH%20SHELKE&fontSize=52&fontColor=00ff88&fontAlign=50&fontAlignY=65&animation=fadeIn&desc=Full%20Stack%20Developer%20%26%20Generative%20AI%20Engineer&descSize=16&descFontColor=00ff88&descAlignY=85" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=120&section=header" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2000&pause=99999&color=00FF88&center=true&vCenter=true&width=500&height=70&lines=AKASH+SHELKE" alt="Akash Shelke" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=99999&color=00FF88&center=true&vCenter=true&width=560&height=30&lines=Full+Stack+Developer+%26+Generative+AI+Engineer" alt="Role" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2500&pause=99999&color=6e7681&center=true&vCenter=true&width=480&height=30&lines=RAG+Pipelines+%7C+LLM+Integrations+%7C+Multi-Agent+Systems" alt="Focus" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2500&pause=99999&color=6e7681&center=true&vCenter=true&width=480&height=28&lines=RAG+Pipelines+%7C+LLM+Integrations+%7C+Multi-Agent+Systems" alt="Focus" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=00ff88&labelColor=000000&color=00ff88)](https://x-blush-two.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=000000&color=00ff88)](https://linkedin.com/in/akash-shelke-5b1520259/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00ff88&labelColor=000000&color=00ff88)](https://leetcode.com/u/skyler_0777/)
-[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=000000&color=00ff88)](mailto:akashshelke594@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://x-blush-two.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://linkedin.com/in/akash-shelke-5b1520259/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://leetcode.com/u/skyler_0777/)
+[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=0d1117&color=00ff88)](mailto:akashshelke594@gmail.com)
 
 </div>
 
