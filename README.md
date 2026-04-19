@@ -1,88 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=120&section=header" width="100%"/>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   AKASH SHELKE                                               ║
+║   Full-Stack Engineer · Generative AI · Systems Thinker      ║
+║                                                              ║
+║   RAG Pipelines  ·  LLM Integrations  ·  Multi-Agent Systems ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2000&pause=99999&color=00FF88&center=true&vCenter=true&width=500&height=70&lines=AKASH+SHELKE" alt="Akash Shelke" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=99999&color=00FF88&center=true&vCenter=true&width=560&height=30&lines=Full+Stack+Developer+%26+Generative+AI+Engineer" alt="Role" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2500&pause=99999&color=6e7681&center=true&vCenter=true&width=480&height=30&lines=RAG+Pipelines+%7C+LLM+Integrations+%7C+Multi-Agent+Systems" alt="Focus" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://akashshelke007.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://linkedin.com/in/akash-shelke-5b1520259/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://leetcode.com/u/skyler_0777/)
-[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=0d1117&color=00ff88)](mailto:akashshelke594@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-akashshelke007.vercel.app-f5a623?style=flat-square&labelColor=0d1117)](https://akashshelke007.vercel.app)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akash--shelke-f5a623?style=flat-square&logo=linkedin&logoColor=f5a623&labelColor=0d1117)](https://linkedin.com/in/akash-shelke-5b1520259/)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-skyler__0777-f5a623?style=flat-square&logo=leetcode&logoColor=f5a623&labelColor=0d1117)](https://leetcode.com/u/skyler_0777/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-akashshelke594@gmail.com-f5a623?style=flat-square&logo=gmail&logoColor=f5a623&labelColor=0d1117)](mailto:akashshelke594@gmail.com)
 
 </div>
 
 ---
 
-## `⚡ Tech Arsenal`
+## About
 
-<table>
-<tr>
-<td valign="top" width="50%">
+Final-year Information Technology student building at the intersection of **full-stack engineering** and **generative AI**. I care about systems that are well-reasoned, not just functional — clean architecture, purposeful abstractions, and ML pipelines that actually make it to production.
 
-**🤖 AI / ML**
-```
-LangChain · LlamaIndex · OpenAI
-HuggingFace · ChromaDB 
-```
-
-**🎨 Frontend**
-```
-React · TypeScript
-Tailwind CSS · Redux Toolkit
-```
-
-</td>
-<td valign="top" width="50%">
-
-**⚙️ Backend**
-```
-Node.js · Express · Python · FastAPI · Flask
-```
-
-**🗄️ Databases**
-```
-MongoDB ·SQL · Redis
-```
-
-**☁️ Infrastructure**
-```
-Docker · AWS 
-```
-
-</td>
-</tr>
-</table>
+Currently focused on: agentic AI systems, real-time data pipelines, and frontend interfaces that respect the person using them.
 
 ---
 
-## `📊 GitHub Activity`
+## Stack
+
+**AI / ML**
+
+| Tool | Use |
+|---|---|
+| LangChain · LlamaIndex | Orchestration, RAG pipelines |
+| OpenAI · HuggingFace | Model integration & fine-tuning |
+| ChromaDB | Vector storage & semantic retrieval |
+
+**Engineering**
+
+| Layer | Technologies |
+|---|---|
+| Frontend | React · TypeScript · Tailwind CSS · Redux Toolkit |
+| Backend | Node.js · Express · Python · FastAPI · Flask |
+| Data | MongoDB · PostgreSQL · Redis |
+| Infrastructure | Docker · AWS |
+
+---
+
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akashshelke07&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashshelke07&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff88&sideLabels=00ff88&dates=6e7681" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akashshelke07&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=f5a623&icon_color=f5a623&text_color=c9d1d9&ring_color=f5a623" height="155"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashshelke07&hide_border=true&background=0d1117&stroke=f5a623&ring=f5a623&fire=f5a623&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=f5a623&sideLabels=f5a623&dates=6e7681" height="155"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashshelke07&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&area_color=00ff8820" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashshelke07&bg_color=0d1117&color=f5a623&line=f5a623&point=ffffff&area=true&hide_border=true&area_color=f5a62318" width="92%"/>
 
 </div>
 
 ---
 
+## Currently
+
+```
+→  Building    production-grade agentic systems
+→  Learning    distributed systems design
+→  Open to     ML Engineering · Full-Stack · GenAI roles
+```
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=80&section=footer"/>
+![Profile Views](https://komarev.com/ghpvc/?username=akashshelke07&style=flat-square&color=f5a623&labelColor=0d1117&label=profile+views)
 
-**`> Building intelligent systems. One commit at a time._`**
-
-![Profile Views](https://komarev.com/ghpvc/?username=akashshelke07&style=for-the-badge&color=00ff88&labelColor=0d1117)
+*Systems that think. Code that ships.*
 
 </div>
