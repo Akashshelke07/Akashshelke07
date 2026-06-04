@@ -1,110 +1,77 @@
-````markdown
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=F5A623&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Akash+Shelke;Full-Stack+Developer;Generative+AI+Enthusiast;Building+Scalable+and+Intelligent+Systems" alt="Typing SVG" />
-</p>
+# Akash Shelke
 
-<h3 align="center">
-  Full-Stack Developer • AI Enthusiast • Final Year IT Student
-</h3>
+**Full-Stack Developer · Generative AI Enthusiast · Final Year IT Student**
 
-<p align="center">
-  Passionate about building real-world applications using modern web technologies and Generative AI.
-  <br>
-  I enjoy creating scalable systems, intelligent assistants, and user-focused digital experiences.
-</p>
+I build real-world applications at the intersection of modern web tech and AI — from production-ready MERN stacks to RAG pipelines and intelligent agents. I care about clean architecture, scalable systems, and products that actually solve problems.
 
-<p align="center">
-  <a href="https://akashshelke007.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-F5A623?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/akash-shelke-5b1520259">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:akashshelke594@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+📍 Pune, India &nbsp;|&nbsp; 📬 [akashshelke594@gmail.com](mailto:akashshelke594@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://akashshelke007.vercel.app) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/akash-shelke-5b1520259)
+
+---
+
+## About
+
+Final year Information Technology student with a hands-on approach to learning. I've spent the last couple of years building full-stack projects, diving deep into Generative AI, and consistently sharpening my DSA and system design fundamentals. Currently looking for full-stack and AI engineering opportunities where I can contribute and grow.
+
+- 🔭 &nbsp;Working on production-grade AI applications with RAG and LLM integrations
+- 🌱 &nbsp;Learning distributed systems and cloud architecture
+- 🧠 &nbsp;Consistently solving DSA problems on LeetCode and similar platforms
+- 🤝 &nbsp;Open to collaborations on meaningful projects
+
+---
+
+## Tech Stack
+
+**Frontend**
+React · TypeScript · JavaScript · Tailwind CSS · Redux · HTML/CSS
+
+**Backend**
+Node.js · Express · Python · FastAPI · Flask
+
+**Databases**
+MongoDB · PostgreSQL · Redis
+
+**AI & ML**
+LangChain · LlamaIndex · OpenAI SDK · Hugging Face · ChromaDB
+
+**DevOps & Cloud**
+Docker · AWS · Git
+
+---
+
+## Featured Projects
+
+### [Plexi Bot](https://github.com/akashshelke07)
+An AI-powered shopping assistant built with a RAG pipeline. Integrates LLM reasoning with real-time product data to answer user queries with relevant, context-aware responses.
+
+### [Rakshak](https://github.com/akashshelke07)
+A women's safety platform focused on emergency response. Designed to be fast, accessible, and reliable when it matters most.
+
+### [BookSnap](https://github.com/akashshelke07)
+A smart book discovery tool that makes it easy to find your next read through a clean, intuitive interface and smart recommendations.
+
+### [Online DSA Compiler](https://github.com/akashshelke07)
+Built at a hackathon to let beginners write and run code directly in the browser — no setup required. Targeted at newcomers getting started with data structures and algorithms.
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akashshelke07&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=akashshelke07&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-# 🚀 About Me
+## Currently
 
-- 🎓 Final Year Information Technology Student
-- 💻 Full-Stack Developer specializing in MERN Stack
-- 🤖 Exploring Generative AI, RAG Systems, and AI Agents
-- ☁️ Learning Cloud Architecture and Distributed Systems
-- 📚 Consistently solving DSA problems and improving system design skills
-- 🌱 Always building, learning, and experimenting with new technologies
-
----
-
-# 🛠️ Tech Stack
-
-### Frontend
-![React](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,redux)
-
-### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask)
-
-### Database
-![Database](https://skillicons.dev/icons?i=mongodb,postgresql,redis)
-
-### Cloud & DevOps
-![Cloud](https://skillicons.dev/icons?i=docker,aws,git,github)
-
-### AI & Machine Learning
-![Python](https://skillicons.dev/icons?i=python)
-
-LangChain • LlamaIndex • OpenAI • Hugging Face • ChromaDB
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akashshelke07&show_icons=true&theme=transparent&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akashshelke07&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=akashshelke07&theme=github-compact&hide_border=true"/>
-</p>
-
----
-
-# 🏆 Featured Projects
-
-### 🤖 Plexi Bot
-Generative AI shopping assistant built with RAG pipelines, LLM integrations, and real-time product intelligence.
-
-### 🛡️ Rakshak
-Women safety platform designed to assist users during emergency situations and improve public safety.
-
-### 📚 BookSnap
-Smart book discovery platform with an intuitive user experience and modern web architecture.
-
-### 💻 Online DSA Compiler
-Built during a hackathon to help beginners practice and execute coding problems directly from the browser.
-
----
-
-# 🎯 Current Focus
-
-```txt
-Building: Production-grade AI Applications
-Learning: Distributed Systems & Cloud Architecture
-Practicing: Data Structures & Algorithms
-Seeking: Full-Stack & AI Engineering Opportunities
-````
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashshelke07&style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <b>Building software that solves real problems.</b>
-</p>
 ```
+Building   →  Production-grade AI applications
+Learning   →  Distributed systems & cloud architecture  
+Practicing →  Data structures & algorithms
+Seeking    →  Full-stack & AI engineering roles
+```
+
+---
+
+*Building software that solves real problems.*
