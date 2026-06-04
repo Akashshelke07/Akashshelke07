@@ -1,87 +1,110 @@
-<div align="center">
+````markdown
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=F5A623&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Akash+Shelke;Full-Stack+Developer;Generative+AI+Enthusiast;Building+Scalable+and+Intelligent+Systems" alt="Typing SVG" />
+</p>
 
+<h3 align="center">
+  Full-Stack Developer • AI Enthusiast • Final Year IT Student
+</h3>
+
+<p align="center">
+  Passionate about building real-world applications using modern web technologies and Generative AI.
+  <br>
+  I enjoy creating scalable systems, intelligent assistants, and user-focused digital experiences.
+</p>
+
+<p align="center">
+  <a href="https://akashshelke007.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-F5A623?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/akash-shelke-5b1520259">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:akashshelke594@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🚀 About Me
+
+- 🎓 Final Year Information Technology Student
+- 💻 Full-Stack Developer specializing in MERN Stack
+- 🤖 Exploring Generative AI, RAG Systems, and AI Agents
+- ☁️ Learning Cloud Architecture and Distributed Systems
+- 📚 Consistently solving DSA problems and improving system design skills
+- 🌱 Always building, learning, and experimenting with new technologies
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+![React](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,redux)
+
+### Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask)
+
+### Database
+![Database](https://skillicons.dev/icons?i=mongodb,postgresql,redis)
+
+### Cloud & DevOps
+![Cloud](https://skillicons.dev/icons?i=docker,aws,git,github)
+
+### AI & Machine Learning
+![Python](https://skillicons.dev/icons?i=python)
+
+LangChain • LlamaIndex • OpenAI • Hugging Face • ChromaDB
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akashshelke07&show_icons=true&theme=transparent&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akashshelke07&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=akashshelke07&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Featured Projects
+
+### 🤖 Plexi Bot
+Generative AI shopping assistant built with RAG pipelines, LLM integrations, and real-time product intelligence.
+
+### 🛡️ Rakshak
+Women safety platform designed to assist users during emergency situations and improve public safety.
+
+### 📚 BookSnap
+Smart book discovery platform with an intuitive user experience and modern web architecture.
+
+### 💻 Online DSA Compiler
+Built during a hackathon to help beginners practice and execute coding problems directly from the browser.
+
+---
+
+# 🎯 Current Focus
+
+```txt
+Building: Production-grade AI Applications
+Learning: Distributed Systems & Cloud Architecture
+Practicing: Data Structures & Algorithms
+Seeking: Full-Stack & AI Engineering Opportunities
+````
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akashshelke07&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>Building software that solves real problems.</b>
+</p>
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   AKASH SHELKE                                               ║
-║   Full-Stack Engineer · Generative AI · Systems Thinker      ║
-║                                                              ║
-║   RAG Pipelines  ·  LLM Integrations  ·  Multi-Agent Systems ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-akashshelke007.vercel.app-f5a623?style=flat-square&labelColor=0d1117)](https://akashshelke007.vercel.app)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akash--shelke-f5a623?style=flat-square&logo=linkedin&logoColor=f5a623&labelColor=0d1117)](https://linkedin.com/in/akash-shelke-5b1520259/)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-skyler__0777-f5a623?style=flat-square&logo=leetcode&logoColor=f5a623&labelColor=0d1117)](https://leetcode.com/u/skyler_0777/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-akashshelke594@gmail.com-f5a623?style=flat-square&logo=gmail&logoColor=f5a623&labelColor=0d1117)](mailto:akashshelke594@gmail.com)
-
-</div>
-
----
-
-## About
-
-Final-year Information Technology student building at the intersection of **full-stack engineering** and **generative AI**. I care about systems that are well-reasoned, not just functional — clean architecture, purposeful abstractions, and ML pipelines that actually make it to production.
-
-Currently focused on: agentic AI systems, real-time data pipelines, and frontend interfaces that respect the person using them.
-
----
-
-## Stack
-
-**AI / ML**
-
-| Tool | Use |
-|---|---|
-| LangChain · LlamaIndex | Orchestration, RAG pipelines |
-| OpenAI · HuggingFace | Model integration & fine-tuning |
-| ChromaDB | Vector storage & semantic retrieval |
-
-**Engineering**
-
-| Layer | Technologies |
-|---|---|
-| Frontend | React · TypeScript · Tailwind CSS · Redux Toolkit |
-| Backend | Node.js · Express · Python · FastAPI · Flask |
-| Data | MongoDB · PostgreSQL · Redis |
-| Infrastructure | Docker · AWS |
-
----
-
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akashshelke07&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=f5a623&icon_color=f5a623&text_color=c9d1d9&ring_color=f5a623" height="155"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashshelke07&hide_border=true&background=0d1117&stroke=f5a623&ring=f5a623&fire=f5a623&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=f5a623&sideLabels=f5a623&dates=6e7681" height="155"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashshelke07&bg_color=0d1117&color=f5a623&line=f5a623&point=ffffff&area=true&hide_border=true&area_color=f5a62318" width="92%"/>
-
-</div>
-
----
-
-## Currently
-
-```
-→  Building    production-grade agentic systems
-→  Learning    distributed systems design
-→  Open to     ML Engineering · Full-Stack · GenAI roles
-```
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=akashshelke07&style=flat-square&color=f5a623&labelColor=0d1117&label=profile+views)
-
-*Systems that think. Code that ships.*
-
-</div>
