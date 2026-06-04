@@ -4,7 +4,7 @@
 
 I build real-world applications at the intersection of modern web tech and AI — from production-ready MERN stacks to RAG pipelines and intelligent agents. I care about clean architecture, scalable systems, and products that actually solve problems.
 
-📍 Pune, India &nbsp;|&nbsp; 📬 [akashshelke594@gmail.com](mailto:akashshelke594@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://akashshelke007.vercel.app) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/akash-shelke-5b1520259)
+📍 Pune, India &nbsp;|&nbsp; 📬 [akashshelke594@gmail.com](mailto:akashshelke594@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://akashshelke07.github.io/aPortfolio/) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/akash-shelke-5b1520259)
 
 ---
 
