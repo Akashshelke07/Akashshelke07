@@ -75,23 +75,6 @@ Final year Information Technology student with a hands-on approach to learning. 
   </tr>
 </table>
 
----
-
-## 🚀 Featured Projects
-
-### [Plexi Bot](https://github.com/akashshelke07)
-An AI-powered shopping assistant built with a RAG pipeline. Integrates LLM reasoning with real-time product data to answer user queries with relevant, context-aware responses.
-
-### [Rakshak](https://github.com/akashshelke07)
-A women's safety platform focused on emergency response. Designed to be fast, accessible, and reliable when it matters most.
-
-### [BookSnap](https://github.com/akashshelke07)
-A smart book discovery tool that makes it easy to find your next read through a clean, intuitive interface and smart recommendations.
-
-### [Online DSA Compiler](https://github.com/akashshelke07)
-Built at a hackathon to let beginners write and run code directly in the browser — no setup required. Targeted at newcomers getting started with data structures and algorithms.
-
----
 
 ## 📊 GitHub Stats
 
